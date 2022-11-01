@@ -37,6 +37,7 @@ Tijdens dit onderzoek is gekozen om een tussenweg hierin te nemen door te poolen
     - Het aantal en welke batches dat gebruikt worden om de NOC-batch mee te maken.
     - Naast het gemiddelde van de batches, ook een sprijdingsfactor bepalen op iedere timestamp. Hierdoor kan per moment een andere waarde gegeven worden aan een bepaalde afwijking.
 
+## Bibliografie
 
 [1]I. T. Jolliffe and J. Cadima, “Principal component analysis: a review and recent developments,” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, vol. 374, no. 2065, p. 20150202, Apr. 2016, doi: 10.1098/rsta.2015.0202. [Online]. Available: https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0202. [Accessed: Nov. 01, 2022]
 
