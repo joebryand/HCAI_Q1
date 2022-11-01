@@ -4,9 +4,7 @@ images = []
 filenames = range(20,1001,20)
 
 filenames = [str(s) for s in filenames]
-filenames = ['Plots/'+s + '.png' for s in filenames]
-
-filenames
+filenames = [s + '.png' for s in filenames]
 
 for filename in filenames:
     images.append(imageio.imread(filename))
